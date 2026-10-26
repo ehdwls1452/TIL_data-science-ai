@@ -1,4 +1,6 @@
 {
   "readableLineLength": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "spellcheck": false,
+  "autoPairBrackets": false
 }
