@@ -2,5 +2,6 @@
   "readableLineLength": true,
   "showInlineTitle": false,
   "spellcheck": false,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "promptDelete": false
 }
